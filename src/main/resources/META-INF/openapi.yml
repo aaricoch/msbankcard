@@ -1,0 +1,8 @@
+openapi: 3.0.3
+servers:
+- url: http://localhost:9280/
+  description: url Local
+- url: https://dev.nttdata.com/msbankcard/
+  description: url Desarrollo
+- url: https://nttdata.com/msbankcard/
+  description: url Produccion
